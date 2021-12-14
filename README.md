@@ -2,11 +2,17 @@
 
 
 Multi_Virtual_Views_MOP
+
 -----data/
+
 ---------annots/
+
 ---------images/
+
 ---------models/
+
 ---------------smpl_mean_params.npz
+
 ---------------spin_checkpoint.pt
 ---------output/
 ---------smplx/
