@@ -4,7 +4,6 @@
 Multi_Virtual_Views_MOP
 
 -----data/
-
 ---------annots/
 
 ---------images/
